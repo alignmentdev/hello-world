@@ -1,0 +1,13 @@
+"Hello World" by "Anonymous Author"
+
+Include Plurality by Emily Short.
+
+
+The Ruined Well is a room. "The space around you is tinted pale gold by a distant sunbeam from somewhere far above. Tall and crumbling stones form a round wall around you, maybe six feet across. The ground is plain dirt."
+
+The ground is scenery in the Well. "The ground at the bottom of the well is dry and dusty earth. No water has been here in a long time."
+The walls are scenery in the Well. "They're made of roughly cut stones, interlocking like haphazard bricks. The surface is dusty and warm to the touch."
+
+The description of the player is "It's just you."
+
+The player carries a bronze pocketwatch. The description of the pocketwatch is "[one of]Jarred by the landing, the hands on your nice little pocketwatch have frozen at a quarter past four. The compass in the lid still works, though[or]The watch hands are frozen at a quarter past four. The compass in the lid points north[stopping]."
